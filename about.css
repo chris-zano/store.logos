@@ -72,7 +72,6 @@ header nav ul li a:hover {
 
 /* Container and Section Styles */
 .container {
-    max-width: 1200px;
     width: 100%;
     margin: 3.2rem auto;
     scroll-behavior: smooth;
